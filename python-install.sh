@@ -4,7 +4,7 @@ sudo apt-get update \
   libsqlite3-dev libffi-dev tcl-dev libgdbm-dev \
   libreadline-dev tk tk-dev
 
-  git clone https://github.com/python/cpython.git
+  git clone --depth=1 https://github.com/python/cpython.git
   cd cpython && ./configure --prefix=/usr \
   --enable-loadable-sqlite-extensions \
   --enable-shared \
