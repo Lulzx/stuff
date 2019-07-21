@@ -14,4 +14,4 @@ sudo apt-get update \
   --with-system-ffi \
   --enable-ipv6 --with-threads --with-pydebug --disable-rpath \
   && make \
-  && sudo make install
+  && sudo make altinstall
