@@ -1,0 +1,55 @@
+# stuff to begin with:
+
+1. stickers in telegram - webp
+2. Trello for collaborative planning
+3. vanilla js, pure shit
+4. terminal customization
+5. flowxo, understanding flow
+6. node-red can be used too
+7. integromat, connecting stuff
+8. glitch (telegraf), node & npm
+9. heroku (buildpack & deployment)
+10. buddy.works for build & push
+11. github - git add commit push
+12. plantuml diagrams for ease
+13. Blog using Gatbsy - netlify
+14. GCP - vm instance & app engine
+15. custom public apis - rapidapi
+
+# ideas:
+
+> mitsuku userbot
+> question handling
+> facts & quotes thingy
+> favourite food, gimme 🌮
+> story telling through convo
+> inline queries and keyboard buttons
+> fetching members list, couple of the day
+
+# insightful resources:
+
+A Self-Learning, Modern Computer Science Curriculum
+https://functionalcs.github.io/curriculum/#orgae54e20
+
+The 2019 Web Developer RoadMap - By Javin Paul
+https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
+
+Teaching Tech Together
+http://teachtogether.tech/#g:impostor-syndrome
+
+Python built-ins worth learning - Trey Hunner
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+
+Best practice questions
+https://yangshun.github.io/tech-interview-handbook/best-practice-questions/
+
+ui/ux designer roadmap
+https://github.com/togiberlin/ui-ux-designer-roadmap
+
+# thinking process for conceptualization of a program:
+
+> an abstract idea
+> design program
+> implement it
+> modular code
+> communication
